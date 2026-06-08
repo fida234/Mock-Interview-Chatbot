@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+langchain-groq
+pdfplumber
+streamlit-mic-recorder
+SpeechRecognition
+pydub
